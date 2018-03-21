@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>Nuestra Empresa</title>
+  </head>
+  <body>
+    <nav>
+     <a href="nuestrosServicios.html"> Nuestros Servicios - </a>
+      <a href="../index.html"> Pagina Anterior - </a>
+      <a href="https://github.com/holamundo3/empresaBasica">Repositorio empresaBasica - </a>
+      <a href="mailto:oscar.sanmartin@ua.es"> Correo Electronico</a>
+    </nav>
+    <p><br>
+    </p>
+    <p><strong>Oscar San Martin Calera</strong></p>
+    <p><br>
+      <img src="../imagenes/oscar.jpg" alt="Oscar San Martin Calera" title="Oscar San Martin Calera"></p>
+    <p><strong>Telecomunicaciones Acor S.L. </strong></p>
+    <p>Facilitamos a nuestros clientes acceso a diversas formas y redes de
+      telecomunicación, como el Internet o la telefonía móvil, para lo cual
+      inviertimos en maquinaria y personal para brindar un servicio continuo y
+      de alcance local, nacional o regional</p>
+    <p> <img src="../imagenes/logo.jpg" alt="Acor S.L" title="Acor S.L" style="width: 440px; height: 180px;">
+      </p>
+  </body>
+</html>
