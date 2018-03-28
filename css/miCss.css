@@ -1,0 +1,9 @@
+a {
+  padding: 10px;
+  border-style: solid;
+  border-color:yellow;
+}
+a:hover{
+  border-color:coral;
+}
+body>header {margin-top:60px;}
